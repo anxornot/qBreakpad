@@ -12,7 +12,7 @@ How to use
 ----------------
 * Clone repository recursively
 ```bash
-$ git clone --recursive https://github.com/buzzySmile/qBreakpad.git
+$ git clone --recursive https://github.com/anxornot/qBreakpad
 ```
 * Build qBreakpad static library (qBreakpad/handler/)
 * Include "qBreakpad.pri" to your target Qt project
